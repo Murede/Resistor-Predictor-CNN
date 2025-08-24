@@ -71,6 +71,3 @@ python src/predict.py --image sample_resistor.jpg
 
 **Author:** Murede Adetiba 
 **License:** MIT
-
-```
-
