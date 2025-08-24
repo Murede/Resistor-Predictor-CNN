@@ -6,13 +6,21 @@ This project predicts resistor values from images of resistors using a Convoluti
 
 resistor-value-prediction/
 ├── notebooks/
+
 │   └── Resistor\_Value\_Prediction\_CNN\_Model.ipynb  # Cleaned Jupyter Notebook
+
 ├── src/
-│   ├── data\_loader.py   # Loads dataset, applies transforms
-│   ├── model.py         # CNN model definition
-│   ├── train.py         # Training script
-│   ├── predict.py       # Prediction script
+
+  ├── data\_loader.py   # Loads dataset, applies transforms
+
+  ├── model.py         # CNN model definition
+
+  ├── train.py         # Training script
+
+  ├── predict.py       # Prediction script
+
 ├── requirements.txt      # Dependencies
+
 ├── README.md             # Project documentation
 
 
